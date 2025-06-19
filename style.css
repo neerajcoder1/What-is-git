@@ -2,3 +2,7 @@ body{
     background-color: azure;
     font-weight: bolder;
 }
+h1{
+    color: darkblue;
+    text-align: center;
+}
